@@ -25,7 +25,7 @@ Hopefully, this project can be valuable and beneficial for the advancement of Te
 
 ## 📌 Note
 
-This study is my exercise in learning about data banking analysis.
+This study is my exercise in learning about banking data analysis.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
