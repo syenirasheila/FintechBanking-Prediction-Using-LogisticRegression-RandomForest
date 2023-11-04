@@ -23,9 +23,5 @@ Python using Google Collab
 
 Hopefully, this project can be valuable and beneficial for the advancement of Technology and Information, and if it's been useful to you, please give it a ⭐️ on this repository! Thank you 😃
 
-## 📌 Note
-
-This study is my exercise in learning about banking data analysis.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
